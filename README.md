@@ -8,7 +8,7 @@ A clean, responsive, and modern portfolio website built using **HTML**, **CSS**,
 
 Click to watch the full tutorial on YouTube:
 
-[▶️ **Watch on YouTube**](https://www.youtube.com/@NoneTechDevelopers)
+[▶️ **Watch on YouTube**](https://www.youtube.com/@NoneTechDevelopers),
 [▶️ **Demo**](https://www.youtube.com/@NoneTechDevelopers)
 
 ---
@@ -60,7 +60,7 @@ Click to watch the full tutorial on YouTube:
 
 If you want help customizing your portfolio, feel free to reach out!
 
-**Your Name**
+**Siddharth K.**
 Web Developer
 
 ---
